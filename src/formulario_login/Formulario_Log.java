@@ -42,6 +42,7 @@ public class Formulario_Log extends javax.swing.JFrame {
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         panelLogin.setBackground(new java.awt.Color(18, 49, 66));
+        panelLogin.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panelLogin.setMinimumSize(new java.awt.Dimension(300, 250));
         panelLogin.setLayout(null);
 
